@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+
+presentation_build/
+dataset-extract/
+*.inspect.ndjson
+
+.streamlit/secrets.toml
+sms-spam-collection.zip
